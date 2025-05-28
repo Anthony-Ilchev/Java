@@ -1,0 +1,2 @@
+Employee,John Doe,E001,50000
+Manager,Jane Smith,M002,70000,HR
